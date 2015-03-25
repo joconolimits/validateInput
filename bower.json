@@ -1,0 +1,23 @@
+{
+  "name": "validateInput",
+  "version": "0.0.0",
+  "authors": [
+    "Jordan Krstevski <joconolimits@gmail.com>"
+  ],
+  "description": "validate input on key up  ",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "animate.css": "~3.2.6"
+  }
+}
